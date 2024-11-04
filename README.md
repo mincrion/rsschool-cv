@@ -1,2 +1,2 @@
 # rsschool-cv
-[https://github.com/mincrion/rsschool-cv](https://github.com/mincrion/rsschool-cv/blob/gh-pages/cv.md)
+[https://mincrion.github.io/rsschool-cv/cv](https://mincrion.github.io/rsschool-cv/cv)
